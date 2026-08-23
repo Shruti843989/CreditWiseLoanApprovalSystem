@@ -1,4 +1,4 @@
-# CreditWise Loan Approval System
+# CreditWise Loan Approval System...
 
 This is a simple Machine Learning project that predicts loan approval using applicant data.
 ## Tools Used
